@@ -5,7 +5,6 @@
 
 # Lorem ipsum
 
-
 # Lorem ipsum dolor
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec in condimentum nibh. Fusce at gravida sem. Maecenas id sapien mauris. Curabitur volutpat mauris vel ante auctor gravida. Nam imperdiet bibendum aliquet. Proin sodales neque sed ipsum imperdiet, in mattis felis vehicula. Phasellus nec velit molestie ipsum aliquet scelerisque sit amet eu ante. Nulla non facilisis ex, ut hendrerit odio. Cras sed efficitur justo. Nam sollicitudin, ex a vestibulum sodales, est quam accumsan eros, ut pellentesque orci leo imperdiet neque.
@@ -25,7 +24,7 @@ Donec ac leo elit. Sed turpis enim, euismod sit amet diam varius, placerat vesti
 In hac habitasse platea dictumst. Ut non urna sodales, volutpat ante id, finibus felis. Maecenas nec varius arcu. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Curabitur scelerisque tristique erat ut cursus. Duis tristique metus ligula, eget ultrices mi ultricies id. Aliquam efficitur, leo vel tempus pulvinar, nisl ante interdum sem, in tincidunt arcu ex vel ante. Cras eu aliquam nisl, id egestas velit. Cras suscipit velit quis est aliquet, eu tempor velit pretium. Aliquam pharetra auctor purus at lacinia. Ut at vulputate arcu, non vulputate tortor. Aenean cursus, lacus id hendrerit molestie, diam dui condimentum enim, a tempus augue odio vel orci. Donec feugiat, ligula eget ultricies posuere, diam turpis sollicitudin libero, et commodo lacus turpis vitae neque.
 
 
-## Table!
+## Table
 
 | Month    | Savings |
 | -------- | ------- |
@@ -41,5 +40,5 @@ Go to [Quisque nec](#quisque-nec)
 
 ## Code
 
-`the code`
+`some code`
 
